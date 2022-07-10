@@ -1,0 +1,3 @@
+Considerando as velocidades e os pedágios o carro chega em Franca em 54,55 minutos e o caminhão chega em Ribeirão Preto em 85 minutos.
+
+Porém ao se cruzarem na estrada a distância dos 2 de Ribeirão Preto é a mesma, já que os dois veículos se encontram no mesmo ponto.
